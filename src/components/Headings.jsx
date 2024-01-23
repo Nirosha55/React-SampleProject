@@ -10,11 +10,11 @@ let constomStyle = {
 }
 
 if(currentTime <12){
-greeting='Good Morning Bondu';
+greeting='Good Morning varnika';
 constomStyle.color='red';
 }
 else if(currentTime <18){
-greeting ="good afternoon vanshuu";
+greeting ="good afternoon vanshika";
 constomStyle.color='green';
 }else{
   greeting="Good Night bye bye";
